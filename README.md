@@ -1,64 +1,66 @@
-👋 Olá, eu sou o Art Rodrigues!
+# 👋 Olá, eu sou o Art Rodrigues!
 
-🎯 Apaixonado por tecnologia, aprendizado prático e desenvolvimento de soluções.
+🎯 **Apaixonado por tecnologia, aprendizado prático e desenvolvimento de soluções.**
 
-Sou uma pessoa curiosa e sempre em busca de novos conhecimentos. Tenho interesse por diversas áreas da tecnologia, desde programação, desenvolvimento mobile e web, até inteligência artificial, visão computacional e automação.
+Sou uma pessoa curiosa e sempre em busca de novos conhecimentos. Tenho interesse por diversas áreas da tecnologia, desde **programação, desenvolvimento mobile e web, até inteligência artificial, visão computacional e automação.**  
 
 Atualmente foco no desenvolvimento de projetos que me desafiam e me ajudam a crescer profissionalmente, sempre buscando aplicar na prática aquilo que estudo.
-🚀 Tecnologias e Ferramentas que utilizo
 
-    💻 Linguagens:
-        Python | Java | Kotlin | HTML | CSS | JavaScript (básico)
+---
 
-    🛠️ Frameworks e Bibliotecas:
-        YOLO | OpenCV | Matplotlib | Pandas | NumPy | TensorFlow (estudos) | Keras (estudos)
+## 🚀 Tecnologias e Ferramentas que utilizo
 
-    📱 Desenvolvimento Mobile:
-        Android (Kotlin/Java)
+- 💻 **Linguagens:**  
+`Python` | `Java` | `Kotlin` | `HTML` | `CSS` | `JavaScript` (básico)
 
-    🌐 Outros:
-        Git | GitHub | Google Colab | VS Code | PyCharm | Figma (básico)
+- 🛠️ **Frameworks e Bibliotecas:**  
+`YOLO` | `OpenCV` | `Matplotlib` | `Pandas` | `NumPy` | `TensorFlow` (estudos) | `Keras` (estudos)
 
-💡 Interesses atuais
+- 📱 **Desenvolvimento Mobile:**  
+`Android (Kotlin/Java)`
 
-    📱 Desenvolvimento de aplicativos Android que resolvem problemas reais.
+- 🌐 **Outros:**  
+`Git` | `GitHub` | `Google Colab` | `VS Code` | `PyCharm` | `IntelliJ IDEA` | `Figma` (básico)
 
-    🤖 Projetos com Inteligência Artificial e Visão Computacional, como detecção de defeitos, reconhecimento de objetos e sistemas inteligentes.
+---
 
-    🧠 Aprimoramento contínuo em Python, boas práticas de programação, arquitetura de software e desenvolvimento de projetos robustos.
+## 💡 Interesses atuais
 
-    🛠️ Criação de ferramentas úteis, automação de tarefas e sistemas inteligentes.
+- 📱 Desenvolvimento de aplicativos Android que resolvem problemas reais.  
+- 🤖 Projetos com **Inteligência Artificial e Visão Computacional**, como detecção de defeitos, reconhecimento de objetos e sistemas inteligentes.  
+- 🧠 Aprimoramento contínuo em **Java** e **Python**, com foco em boas práticas de programação, arquitetura de software e desenvolvimento de projetos robustos.  
+- 🛠️ Criação de ferramentas úteis, automação de tarefas e sistemas inteligentes.  
+- 🎯 Desenvolvimento de sistemas aplicados, como **sistemas de recomendação, reconhecimento de imagens e tradutores inteligentes.**
 
-    🎯 Desenvolvimento de sistemas aplicados, como sistemas de recomendação, reconhecimento de imagens e tradutores inteligentes.
+---
 
-🌱 Atualmente aprendendo
+## 🌱 Atualmente aprendendo
 
-    Arquitetura de software e desenvolvimento limpo.
+- Aprimoramento em **Java** para desenvolvimento robusto, incluindo boas práticas, padrões de projeto e desenvolvimento orientado a objetos.  
+- Arquitetura de software e desenvolvimento limpo.  
+- Aprimoramento de apps Android com Kotlin e integração com IA.  
+- Modelagem de dados, treinamento de modelos e validação cruzada.  
+- Desenvolvimento de interfaces mais polidas e intuitivas.  
 
-    Aprimoramento de apps Android com Kotlin e integração com IA.
+---
 
-    Modelagem de dados, treinamento de modelos e validação cruzada.
+## 📈 Meus projetos refletem meu processo de aprendizado
 
-    Desenvolvimento de interfaces mais polidas e intuitivas.
+🔧 Aqui você encontrará projetos que desenvolvo para:  
+- Consolidar meus estudos.  
+- Resolver problemas do dia a dia.  
+- Construir ferramentas que auxiliam meu desenvolvimento como programador.
 
-📈 Meus projetos refletem meu processo de aprendizado
+---
 
-🔧 Aqui você encontrará projetos que desenvolvo para:
+## 📫 Como me encontrar
 
-    Consolidar meus estudos.
+- ✉️ Email: **[adicione seu email aqui]**  
+- 💼 LinkedIn: **[adicione seu LinkedIn aqui]**  
+- 🚀 GitHub: **[https://github.com/seu-usuario](https://github.com/seu-usuario)**
 
-    Resolver problemas do dia a dia.
+---
 
-    Construir ferramentas que auxiliam meu desenvolvimento como programador.
+## 🚀 Frase que me guia:
 
-📫 Como me encontrar
-
-    ✉️ Email: [adicione seu email aqui]
-
-    💼 LinkedIn: [adicione seu LinkedIn aqui]
-
-    🚀 GitHub: [github.com/seu-usuario]
-
-🚀 Frase que me guia:
-
-    “O conhecimento aplicado transforma. Aprender é o primeiro passo, executar é o que faz a diferença.”
+> **“O conhecimento aplicado transforma. Aprender é o primeiro passo, executar é o que faz a diferença.”**
