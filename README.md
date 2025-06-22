@@ -55,9 +55,8 @@ Atualmente foco no desenvolvimento de projetos que me desafiam e me ajudam a cre
 
 ## 📫 Como me encontrar
 
-- ✉️ Email: **[adicione seu email aqui]**  
-- 💼 LinkedIn: **[adicione seu LinkedIn aqui]**  
-- 🚀 GitHub: **[https://github.com/seu-usuario](https://github.com/seu-usuario)**
+- ✉️ Email: **arthur.fellipe21@gmail.com**  
+- 💼 LinkedIn: **linkedin.com/in/arthur-santos-551b62216/**
 
 ---
 
