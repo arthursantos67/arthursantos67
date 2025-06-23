@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Art Rodrigues!
+# 👋 Olá, eu sou o Arthur Santos!
 
 🎯 **Apaixonado por tecnologia, aprendizado prático e desenvolvimento de soluções.**
 
