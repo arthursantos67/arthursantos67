@@ -11,7 +11,7 @@ Atualmente foco no desenvolvimento de projetos que me desafiam e me ajudam a cre
 ## 🚀 Tecnologias e Ferramentas que utilizo
 
 - 💻 **Linguagens:**  
-`Python` | `Java` | `Kotlin` | `HTML` | `CSS` | `JavaScript` (básico)
+`Python` | `Java` | `Kotlin` | `HTML` | `CSS` | `JavaScript`
 
 - 🛠️ **Frameworks e Bibliotecas:**  
 `YOLO` | `OpenCV` | `Matplotlib` | `Pandas` | `NumPy` | `TensorFlow` (estudos) | `Keras` (estudos)
@@ -20,7 +20,7 @@ Atualmente foco no desenvolvimento de projetos que me desafiam e me ajudam a cre
 `Android (Kotlin/Java)`
 
 - 🌐 **Outros:**  
-`Git` | `GitHub` | `Google Colab` | `VS Code` | `PyCharm` | `IntelliJ IDEA` | `Figma` (básico)
+`Git` | `GitHub` | `Google Colab` | `VS Code` | `PyCharm` | `IntelliJ IDEA` | `Figma`
 
 ---
 
