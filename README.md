@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Arthur Santos!
 
-🎯 **Apaixonado por tecnologia, aprendizado prático e desenvolvimento de soluções.**
+**Apaixonado por tecnologia, aprendizado prático e desenvolvimento de soluções.**
 
 Sou uma pessoa curiosa e sempre em busca de novos conhecimentos. Tenho interesse por diversas áreas da tecnologia, desde **programação, desenvolvimento mobile e web, até inteligência artificial, visão computacional e automação.**  
 
